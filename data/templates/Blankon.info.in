@@ -2,8 +2,8 @@ ChangelogURI: http://arsip.blankonlinux.or.id/blankon/changelogs/pool/%s/%s/%s/%
 
 Suite: uluwatu
 RepositoryType: deb
-BaseURI: http://arsip-dev.blankonlinux.or.id/blankon/
-MatchURI: arsip-dev.blankonlinux.or.id/blankon
+BaseURI: http://arsip.blankonlinux.or.id/blankon/
+MatchURI: arsip.blankonlinux.or.id/blankon
 MirrorsFile-amd64: /usr/share/python-apt/templates/Blankon.mirrors
 MirrorsFile-i386: /usr/share/python-apt/templates/Blankon.mirrors
 _Description: Blankon 11.0 'Uluwatu'
@@ -34,8 +34,8 @@ _CompDescription: Restricted copyright
 Suite: uluwatu-security
 ParentSuite: uluwatu
 RepositoryType: deb
-BaseURI: http://arsip-dev.blankonlinux.or.id/blankon/
-MatchURI: arsip-dev.blankonlinux.or.id/blankon
+BaseURI: http://arsip.blankonlinux.or.id/blankon/
+MatchURI: arsip.blankonlinux.or.id/blankon
 _Description: Important security updates
 
 Suite: uluwatu-updates
